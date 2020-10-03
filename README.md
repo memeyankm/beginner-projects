@@ -65,6 +65,7 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
 - [Movie of the day](#movie-of-the-day)
 - [Website Scraper / Analyzer](#website-scraper--analyzer)
 - [Palindrome](#palindrome)
+- [GUI based Calculator](#GUI-based-calculator)
 
 ## Projects
 
@@ -484,7 +485,18 @@ do so), like Python and Java.
 - Write a program to check if a number is a palindrome or not.
 - For example 12321 is a palindrome since it reads the same forward and backwards. 
 
-   
+
+### GUI based Calculator
+
+- An arithmetic and exponential calculator, similar to the Casio/TI ones used in offices.
+- The main idea being to implement the use of GUI and not command line, so that it can be wrapped for deployment.
+- Going through this, you will learn:
+    - How to create GUI programs in python.
+    - The technicalities of Tkinter eg: buttons and python OOPS.
+    - Hard-coding some somplex operaions like factorial, clear and all clear buttons. 
+
+
+
 
 ## Solutions
 - [aekanshd](https://github.com/aekanshd/beginner-projects/tree/master/solutions/python)
@@ -555,6 +567,7 @@ do so), like Python and Java.
 - [yyyoungha](https://github.com/yyyoungha/beginner-project-solutions)
 - [einyhime](https://github.com/einyhime/beginner-project-solutions)
 - [ms1835](https://github.com/ms1835/beginner-projects)
+- [memeyankm](https://github.com/memeyankm/Tkinter)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
